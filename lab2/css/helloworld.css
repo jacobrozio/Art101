@@ -1,0 +1,12 @@
+h1{
+  color: red;
+  font-size: 100px;
+}
+p{
+  font-family: comic sans-serif;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+#Drake {
+  border: solid 1px;
+}
