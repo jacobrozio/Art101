@@ -1,0 +1,6 @@
+body {
+  background-color: grey;
+  font-style: normal;
+  font-family: cursive;
+}
+p.solid {border-style: solid;}
