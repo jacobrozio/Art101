@@ -1,8 +1,16 @@
 body{
-  background-color: blue;
+  background-color: DarkOliveGreen;
+  font-family: Tahoma;
 }
 .special{
-  background-color: pink;
+  background-color: DarkSalmon;
   width: 700px;
+
+}
+image{
+  width: 200px;
+  height: 200px;
+  margin-left: 600px;
+
 
 }
